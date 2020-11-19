@@ -73,8 +73,8 @@ function draw() {
   arc(0,0,630,630,0,mnAngle);
   stroke(0,255,0);
 
-  arc(0,0,650,650,0,hrAngle);
-  stroke(0,255,0);
+ // arc(0,0,650,650,0,hrAngle);
+ // stroke(0,255,0);
   
 }
 
